@@ -1,4 +1,6 @@
 RENCANA agustya
 
 1.blablabla
+-javascript
 2.blablabla
+-php
